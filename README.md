@@ -1,7 +1,5 @@
 # folder-packs
 
-# folders-packs
-
 https://www.ismoz.com/
 https://filefinderhub.com/
 
